@@ -12,6 +12,16 @@
 
 ---
 
+### 🎯 Goals for 2025
+
+- 💼 Secure a position as a **backend developer**  
+- 🚀 Gain hands-on experience with **Spring Boot** in real-world projects  
+- 🔧 Improve skills in **Java**, **MySQL**, and clean code practices  
+- 🌐 Collaborate on open-source or team-based backend development projects  
+- 📚 Continue learning advanced topics like microservices and RESTful API design
+
+---
+
 ### 🛠️ Languages and Technologies
 
 <p align="left">
