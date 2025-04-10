@@ -1,18 +1,18 @@
-<h1 align="center">Hola 👋, soy Jhorman Salazar</h1>
-<h3 align="center">Desarrollador en formación apasionado por el backend y la tecnología</h3>
+<h1 align="center">Hi 👋, I'm Jhorman Salazar</h1>
+<h3 align="center">A passionate backend development enthusiast and software engineering student</h3>
 
 ---
 
-### 🧑‍💻 Sobre mí
+### 🧑‍💻 About Me
 
-- 🎓 Estudiante / Practicante de desarrollo de software  
-- 🌱 Actualmente aprendiendo **Spring Boot** y **MySQL**
-- 💼 Me interesa el desarrollo backend con Java y Spring  
-- 📫 Puedes contactarme en: salazarjhorman181@gmail.com
+- 🎓 Software development student / intern  
+- 🌱 Currently learning **Spring Boot** and **MySQL**
+- 💼 Interested in backend development with Java and Spring  
+- 📫 Reach me at: salazarjhorman181@gmail.com
 
 ---
 
-### 🛠️ Tecnologías y Lenguajes
+### 🛠️ Languages and Technologies
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -33,10 +33,10 @@
 
 ---
 
-### 🌐 Conéctate conmigo
+### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jhorman-salazar)
 
 ---
 
-📝 Este README está hecho con ❤️ por Jhorman Salazar
+📝 This README was crafted with ❤️ by Jhorman Salazar
