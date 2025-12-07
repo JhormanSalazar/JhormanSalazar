@@ -23,6 +23,7 @@ Currently expanding my skill set with NestJS to broaden my backend development c
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 ### Frontend
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
@@ -50,7 +51,7 @@ Currently expanding my skill set with NestJS to broaden my backend development c
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhormansalazar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" />
+   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=vue-dark&preferLogin=false">    <img  alt="JhormanSalazar's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/JhormanSalazar?cardType=level&theme=vue-dark&preferLogin=false" />  </a>
 </div>
 
 ---
