@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a full-stack developer specializing in building robust web applications with modern technologies. My experience spans from backend development with Spring Boot to creating dynamic user interfaces with Vue.js. I enjoy solving complex problems and writing clean, maintainable code.
+I'm a full-stack developer specializing in building robust web applications with modern technologies. My experience spans from backend development with Spring Boot to creating dynamic user interfaces with Vue.js. I enjoy solving complex problems and keep improving my knowledge every day.
 
 
 ---
@@ -20,7 +20,6 @@ I'm a full-stack developer specializing in building robust web applications with
 ### Backend
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
@@ -40,11 +39,13 @@ I'm a full-stack developer specializing in building robust web applications with
 
 ## 2025 Goals
 
-- Land a backend developer role where I can contribute to meaningful projects
-- Build production-ready applications using Spring Boot and NestJS
-- Deepen my understanding of microservices architecture and RESTful API design
-- Contribute to open-source projects and collaborate with development teams
-- Master advanced database optimization and clean code principles
+- Be part of Sofka Training Leagues to improve my software development knowledge.
+- Land a backend developer role where I can contribute to meaningful projects.
+- Build production-ready applications using Spring Boot and Vue.
+- Deepen my understanding of microservices architecture, AI agents and RESTful API design.
+- Contribute to open-source projects and collaborate with development teams.
+- Master advanced database optimization and clean code principles.
+- Improve my english language level.
 
 ---
 
