@@ -12,7 +12,6 @@
 
 I'm a full-stack developer specializing in building robust web applications with modern technologies. My experience spans from backend development with Spring Boot to creating dynamic user interfaces with Vue.js. I enjoy solving complex problems and writing clean, maintainable code.
 
-Currently expanding my skill set with NestJS to broaden my backend development capabilities.
 
 ---
 
