@@ -37,7 +37,7 @@ I'm a full-stack developer specializing in building robust web applications with
 
 ---
 
-## 2025 Goals
+## 2026 Goals
 
 - Be part of Sofka Training Leagues to improve my software development knowledge.
 - Land a backend developer role where I can contribute to meaningful projects.
