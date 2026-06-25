@@ -14,9 +14,9 @@
 
 ## 👋 About Me
 
-I'm an independent **full-stack software developer (freelance)** with around **1.5 years of experience** and a technical degree in **Software Development from CESDE**. I build full-stack web applications and modern, animated landing pages — caring about both the visual experience and the engineering behind it.
-
-On the backend I work across the JavaScript/TypeScript ecosystem (**Node.js**, **Express**) as well as **Java with Spring Boot**, and I ship data layers with **PostgreSQL** and **Supabase**. I consider myself **highly proficient with AI tooling** to boost my output and capabilities as a developer, and I'm actively **learning to build agentic systems (AI agents)**.
+Full-stack software developer with hands-on experience across Node.js/Express, Java + Spring Boot, and modern frontend frameworks (Vue, React, Next.js), backed by PostgreSQL and Supabase.
+I work daily with AI-assisted development tools — Claude Code, GitHub Copilot — to ship faster without cutting corners on code quality, and I'm continuously sharpening that workflow as AI coding agents evolve. I'm currently expanding into building agentic systems myself.
+I'm a continuous learner who enjoys collaborating across time zones, and I'm actively looking to contribute to open-source projects — happy to start with issues, docs, or small fixes and grow from there.
 
 ---
 
