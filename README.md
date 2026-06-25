@@ -20,11 +20,11 @@ I'm a continuous learner who enjoys collaborating across time zones, and I'm act
 
 ---
 
-## 🚀 ompply
+## 🚀 Ompply
 
 <div align="center">
 
-### ompply — digital solutions for your business
+### Ompply — digital solutions for your business
 
 My own brand, where I deliver **landing pages**, **chatbots**, and **automations** tailored to each client.
 
