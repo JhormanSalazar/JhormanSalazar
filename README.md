@@ -92,7 +92,7 @@ My own brand, where I deliver **landing pages**, **chatbots**, and **automations
 ---
 
 ## 🎯 2026 Goals
-
+- [ ] Contribute to OSS projects.
 - [ ] Build agentic applications (AI agents / agentic systems).
 - [ ] Grow my personal brand, **ompply**.
 - [ ] Connect with people who share my passion for technology.
